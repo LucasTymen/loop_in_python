@@ -9,13 +9,13 @@ Let’s say we have a list of ingredients and we want to print every element in 
 ingredients = ["milk", "sugar", "vanilla extract", "dough", "chocolate"]
 """
 If we only use print(), our program might look like this:
-
+"""
 print(ingredients[0])
 print(ingredients[1])
 print(ingredients[2])
 print(ingredients[3])
 print(ingredients[4])
-
+"""
 The output would be:
 
 milk
